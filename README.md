@@ -2,9 +2,7 @@
 - 👀 I’m interested in front end development with React and Vue!
 - 🌱 I’m currently learning 📱React Native, 🖥️ back-end development and Rust🦀.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleopleq&layout=compact"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleopleq"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pleopleq&hide=css,html&layout=compact"/>
 
 <!---
 Pleopleq/Pleopleq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
