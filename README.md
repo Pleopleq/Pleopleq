@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pleopleq
-- 💻 Software developer interested in backend development, Linux and Go.
-- ❤️ I used to love frontend, but after working with backend systems, I want to explore that side even more.
-- 🌱 Currently improving at: 🐧 Linux, 🦫 Go, backend architecture and system design.
+- <img src="./assets/yo.gif" width="20"> Hi, I’m @Pleopleq
+- <img src="./assets/hackerbert.gif" width="20"> Software developer interested in backend development, Linux and Go.
+- <img src="./assets/life.gif" width="20"> I used to love frontend, but after working with backend systems, I want to explore that side even more.
+- <img src="./assets/peepoLearn.gif" width="20"> Currently improving at: 🐧 Linux, 🦫 Go, backend architecture and system design.
 
 <p align="center">
   <img src="https://cdn.7tv.app/emote/01GPQBJ9W000081V29Z3EHCZ72/4x.avif" width="50">
